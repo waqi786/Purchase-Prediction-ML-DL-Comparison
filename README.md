@@ -1,4 +1,4 @@
-# 🛒 Consumer Purchase Prediction: ML vs. DL Analysis
+# 🛒 Consumer Purchase Prediction: Traditional ML vs. Deep Learning Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
