@@ -19,7 +19,7 @@ In real-world data science, datasets are often "noisy" or have weak signals. Thi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 | Category | Tools |
 | :--- | :--- |
