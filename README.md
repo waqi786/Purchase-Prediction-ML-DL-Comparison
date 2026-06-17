@@ -10,7 +10,7 @@ This project explores the predictability of consumer purchase behavior using a d
 
 In modern e-commerce, understanding the "intent to buy" is crucial for personalized marketing. This project serves as a benchmark study to see if behavioral metrics alone (like time on app or attention scores) are sufficient to predict a binary purchase outcome.
 
-### 🧠 Why This Project is Important:
+### 🧠 Why This Project is Important
 In real-world data science, datasets are often "noisy" or have weak signals. This project demonstrates a **professional end-to-end pipeline** where the focus isn't just on high accuracy, but on:
 - Comprehensive **Exploratory Data Analysis (EDA)**.
 - Implementation of multiple classification algorithms.
