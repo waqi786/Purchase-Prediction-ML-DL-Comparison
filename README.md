@@ -5,7 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## 📌 Project Overview
+## 📌 Project Overview:
 This project explores the predictability of consumer purchase behavior using a dataset of 1,500 samples. The objective was to compare traditional **Machine Learning (ML)** algorithms with **Deep Learning (DL)** architectures to determine the most effective approach for behavioral prediction.
 
 In modern e-commerce, understanding the "intent to buy" is crucial for personalized marketing. This project serves as a benchmark study to see if behavioral metrics alone (like time on app or attention scores) are sufficient to predict a binary purchase outcome.
